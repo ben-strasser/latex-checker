@@ -44,4 +44,4 @@ Latex-Checker is a command line tool that reads a latex file from stdin and writ
 
 Latex-Checker has no dependencies except a sufficiently recent C++ compiler.
 
-Note that Latex-Checker does not attempt to fully understand latex and is not meant to. If you do funky stuff such as changing category code then you are on your own.
+Note that Latex-Checker does not attempt to fully understand latex and is not meant to. If you do funky stuff such as changing category codes then you are on your own.
