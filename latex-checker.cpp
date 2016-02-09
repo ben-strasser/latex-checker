@@ -55,7 +55,7 @@ int main(){
 
 		auto read_word = []{
 			string word;
-			while(isalpha(cin.peek())|| cin.peek() == '*')
+			while(isalnum(cin.peek()) || cin.peek() == '*')
 				word += cin.get();
 			return word;
 		};
